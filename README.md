@@ -9,7 +9,7 @@
 
 **A richly styled, interactive Streamlit dashboard that uncovers deep buying patterns from 11,239 Diwali transactions across India.**
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://diwali-analysis-dashboard-python-39s5k4bxmtfygfwsblvvts.streamlit.app/) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 
